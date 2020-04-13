@@ -1,0 +1,1 @@
+extern "C" int compareIt(const void *n1, const void *n2);void MakeList(void);

@@ -1,0 +1,1 @@
+void MachineEnterBoxSetup(dialogRecordHdl dialogRecord);void MachineEnterBoxEvent(EventRecord *theEvent);Boolean HandleCommandKeys(char theKey, DialogPtr theDialog);

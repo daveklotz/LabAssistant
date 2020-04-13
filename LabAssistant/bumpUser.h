@@ -1,0 +1,1 @@
+Boolean Bump(userNodePtr theUser);int BumpCompare(const void *n1, const void *n2);Boolean Bump(userNodePtr theUser, dialogRecordHdl dialogRecord);void BumpUserBoxEvent(EventRecord *theEvent);

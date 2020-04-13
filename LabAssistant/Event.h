@@ -1,0 +1,1 @@
+void EventLoop(void);void DoEvent(EventRecord *theEvent);void HandleMouseDown(EventRecord *eventPtr);void InContent(Point pointWhere, EventRecord *eventPtr);void Quit(void);void HandleToolBar(short buttonNumber, short computer = -99);

@@ -1,0 +1,1 @@
+void DrawMainWindow(WindowPtr theWindow);void SelectComputer(short computerNumber, Boolean select);long MyDragGrayRgn(RgnHandle dragRgn, Point startPt, myDragGrayRgnProcPtr procPtr, long actionProcRefCon);pascal void WhileDraging(Point thePoint, long theRefCon);void Add3dRaised(Rect *destRect, Boolean chiseled, Boolean whiteBackground, Boolean blackBorder);

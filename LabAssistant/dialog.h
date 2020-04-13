@@ -1,0 +1,1 @@
+dialogRecordHdl CreateDialogRec(dialogProcPtr callBack, Byte theEvent,	long theRecord = 0, short itemHit = 0, long misc = 0);	Boolean HandleCommandKeys(char theKey, DialogPtr theDialog);short DoDialogEvent(EventRecord *theEvent);pascal void DrawOKOutline(WindowPtr theDialog, short theItem);

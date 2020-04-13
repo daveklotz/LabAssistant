@@ -1,0 +1,1 @@
+void HandleCheckStatus(void);void CheckStatusCallBack(dialogRecordHdl dialogRecord);void CheckUserStatus(dialogRecordHdl dialogRecord);void CheckMachineStatus(dialogRecordHdl dialogRecord);

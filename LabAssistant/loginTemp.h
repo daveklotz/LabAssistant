@@ -1,0 +1,1 @@
+void LoginTemp(dialogRecordHdl dialogRecord);

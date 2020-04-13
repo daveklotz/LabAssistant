@@ -1,0 +1,1 @@
+void DoTransfer(short fromComputer, short toComputer);

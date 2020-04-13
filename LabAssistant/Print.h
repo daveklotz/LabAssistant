@@ -1,0 +1,1 @@
+void PrintComputerStatus(void);

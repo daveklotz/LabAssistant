@@ -1,0 +1,1 @@
+void AddUser(void);void AddUserCallBack(dialogRecordHdl dialogRecord);

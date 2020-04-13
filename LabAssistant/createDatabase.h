@@ -1,0 +1,1 @@
+void DatabaseSetupCallBack(dialogRecordHdl dialogRecord);void DatabaseSetupBoxEvent(EventRecord *theEvent);void DatabaseSetupBoxSetup(dialogRecordHdl dialogRecord);void CreateDatabaseFiles(void);

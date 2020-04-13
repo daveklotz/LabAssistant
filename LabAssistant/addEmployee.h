@@ -1,0 +1,1 @@
+void AddEmployee(void);void AddEmployeeCallBack(dialogRecordHdl dialogRecord);

@@ -1,0 +1,1 @@
+short NewAlert(Str255 theMessage, Boolean cancelButton, short defaultItem = ok, short theIcon = 128);Boolean TheDrawProc(WindowPtr theWindow);pascal Boolean TheDialogFilter(DialogPtr theDialog, EventRecord *theEvent, short *theItem);void DoError(Str255 theMessage, Boolean Fatal = false);

@@ -1,0 +1,1 @@
+short DoDialogEvent(EventRecord *theEvent);pascal void DrawOKOutline(WindowPtr theDialog, short theItem);Boolean HandleCommandKeys(char theKey, DialogPtr theDialog);

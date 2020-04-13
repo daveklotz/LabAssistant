@@ -1,0 +1,1 @@
+void AddListRecord(listNode *theList, listNode *theNode);void DeleteList(listNode *theList);void EmployeeToList(employeeNode *employeeHead, listNode *theList);void CreateList(listNode *theList);

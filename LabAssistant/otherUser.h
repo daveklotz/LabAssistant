@@ -1,0 +1,1 @@
+void EditUserBoxSetup(dialogRecordHdl dialogRecord);void EditUserBoxEvent(EventRecord *theEvent);void LoginOtherUser(userNode &theUser, dialogRecordHdl &dialogRecord);

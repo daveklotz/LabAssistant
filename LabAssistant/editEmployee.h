@@ -1,0 +1,1 @@
+void EditEmployee(employeeNode *theEmployee, employeeNode *employeeHead);void EditEmployeeCallBack(dialogRecordHdl dialogRecord);

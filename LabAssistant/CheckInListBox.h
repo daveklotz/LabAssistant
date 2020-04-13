@@ -1,0 +1,1 @@
+void CheckInListBoxSetup(dialogRecordHdl dialogRecord);void CheckInListBoxBoxEvent(EventRecord *theEvent);

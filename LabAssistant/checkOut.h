@@ -1,0 +1,1 @@
+void HandleCheckOut(short computerNumber = -99);void CheckOutCallBack(dialogRecordHdl dialogRecord);void CheckOutUser(dialogRecordHdl dialogRecord);void DoCheckOutUser(computerRecPtr theComputer);

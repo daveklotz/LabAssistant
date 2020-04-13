@@ -1,0 +1,1 @@
+void ListBoxSetup(dialogRecordHdl dialogRecord);void ListBoxBoxEvent(EventRecord *theEvent);

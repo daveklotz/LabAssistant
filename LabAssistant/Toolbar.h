@@ -1,0 +1,1 @@
+Boolean PointInToolbar(Point pointWhere, short& computerNumber);void DrawToolBar(WindowPtr theWindow);void HandleToolBar(short buttonNumber, short computer);

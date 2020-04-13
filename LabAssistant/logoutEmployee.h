@@ -1,0 +1,1 @@
+void LogoutEmployee(void);void LogoutEmployeeCallBack(dialogRecordHdl dialogRecord);

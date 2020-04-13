@@ -1,0 +1,1 @@
+void PlayAboutBox (void);OSErr playMovieInWindow(WindowPtr theWindow, const FSSpec *theFile, const Rect *movieBox);OSErr loadMovie(const FSSpec *theFile, Movie *theMovie);

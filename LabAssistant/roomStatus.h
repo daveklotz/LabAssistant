@@ -1,0 +1,1 @@
+void DrawRoomStatus(void);short ComputerStatus(Byte computerStatus);void GetRoomStatistics(short *room324, short *room332);

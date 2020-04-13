@@ -1,0 +1,1 @@
+void UserEnterBoxSetup(dialogRecordHdl dialogRecord);void UserEnterBoxEvent(EventRecord *theEvent);void UserInfoBoxSetup(dialogRecordHdl dialogRecord);void UserInfoBoxEvent(EventRecord *theEvent);Boolean HandleCommandKeys(char theKey, DialogPtr theDialog);

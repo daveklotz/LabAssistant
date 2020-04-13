@@ -1,0 +1,1 @@
+void HandleMachineDown(short computerNumber = -99);void MachineDownCallBack(dialogRecordHdl dialogRecord);void MarkMachineDown(dialogRecordHdl dialogRecord);

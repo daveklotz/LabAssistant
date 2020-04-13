@@ -1,0 +1,1 @@
+Boolean CheckforComputer(Point pointWhere, short *computerNumber);void MarkMachineDown(short computerNumber, Boolean dragged);void MarkMachineUp(short computerNumber, Boolean dragged);

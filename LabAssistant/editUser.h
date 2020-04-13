@@ -1,0 +1,1 @@
+void EditUser(userNodePtr theUser, userNodePtr userHead);void EditUserCallBack(dialogRecordHdl dialogRecord);

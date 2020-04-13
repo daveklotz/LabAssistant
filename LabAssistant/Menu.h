@@ -1,0 +1,1 @@
+void HandleMenuChoice(long menuChoice);void HandleAppleChoice(short item);void HandleFileChoice(short item);void HandleEditChoice(short item);void HandleUserChoice(short item);void HandleMachineChoice(short item);void HandleEmployeeChoice(short item);void HandleSupervisorChoice(short item);void DisableMenus(Boolean disable);void HandleWaitlistChoice(short item);

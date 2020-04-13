@@ -1,0 +1,1 @@
+void CheckInOtherUser(dialogRecordHdl dialogRecord);void CheckInOtherUserCallBack(dialogRecordHdl dialogRecord);
